@@ -1,0 +1,12 @@
+
+---
+
+## 🧰 Step 3 — requirements.txt
+```text
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+plotly
+wordcloud
